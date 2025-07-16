@@ -1,6 +1,15 @@
 # Baumann-Digital
 Dokumentation zu Baumann-Digital (Onlineportal, Datenstruktur/-schemata)
 
+
+<div align="center"> 
+ 
+**[Online-Portal (Sitemap)](#online-portal-sitemap) • 
+[Kataloge](#kataloge) • 
+[Datenstrukturen](#datenstrukturen)**
+
+</div>
+
 # Online-Portal (Sitemap)
 Mit dieser Dokummentation wird die Stuktur des Onlineportals dargestellt
 
