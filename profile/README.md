@@ -1,4 +1,15 @@
 # Baumann-Digital
+Infrastruktur von Baumann-Digital
+
+## Repositories
+ | Komponente | Repository |
+ | ----- | ---------- |
+ | Software | [portal-app](https://github.com/Baumann-Digital/portal-app) |
+ | Forschungsdaten | [baudi-data](https://github.com/Baumann-Digital/baudi-data) |
+ | Datenschemata | [baudi-odd](https://github.com/Baumann-Digital/baudi-odd) |
+ | Lauffähiges Portal (in Arbeit) | [baudi-docker](https://github.com/Baumann-Digital/baudi-docker) |
+
+## Dokumentation
 Dokumentation zu Baumann-Digital (Onlineportal, Datenstruktur/-schemata)
 
 
